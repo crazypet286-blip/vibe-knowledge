@@ -1,0 +1,208 @@
+{
+  "title": "临界点：你以为努力是线性的，其实它是渗流",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "duration": 118.0,
+  "scenes": {
+    "S01": ["01"],
+    "S02": ["02"],
+    "S03": ["03"],
+    "S04": ["04"],
+    "S05": ["05"],
+    "S06": ["06"]
+  },
+  "shots": [
+    {
+      "id": "01",
+      "scene": "S01",
+      "start": 0.0,
+      "end": 18.0,
+      "dur": 18.0,
+      "chapterNo": "01",
+      "chapterCn": "孤 岛"
+    },
+    {
+      "id": "02",
+      "scene": "S02",
+      "start": 18.0,
+      "end": 38.0,
+      "dur": 20.0,
+      "chapterNo": "02",
+      "chapterCn": "错 觉"
+    },
+    {
+      "id": "03",
+      "scene": "S03",
+      "start": 38.0,
+      "end": 56.0,
+      "dur": 18.0,
+      "chapterNo": "03",
+      "chapterCn": "暗 网"
+    },
+    {
+      "id": "04",
+      "scene": "S04",
+      "start": 56.0,
+      "end": 88.0,
+      "dur": 32.0,
+      "chapterNo": "04",
+      "chapterCn": "贯 通"
+    },
+    {
+      "id": "05",
+      "scene": "S05",
+      "start": 88.0,
+      "end": 108.0,
+      "dur": 20.0,
+      "chapterNo": "05",
+      "chapterCn": "顿 悟"
+    },
+    {
+      "id": "06",
+      "scene": "S06",
+      "start": 108.0,
+      "end": 118.0,
+      "dur": 10.0,
+      "chapterNo": "06",
+      "chapterCn": "回 响"
+    }
+  ],
+  "subtitles": [
+    {
+      "start": 0.4,
+      "displayEnd": 3.6,
+      "text": "你每天，都在暗处点亮[gold:一个点]。"
+    },
+    {
+      "start": 3.8,
+      "displayEnd": 7.2,
+      "text": "背过的一页单词，改完的[cyan:第 317 道错题]，"
+    },
+    {
+      "start": 7.4,
+      "displayEnd": 10.8,
+      "text": "可大部分点，永远[coral:连不成线]。"
+    },
+    {
+      "start": 11.0,
+      "displayEnd": 14.3,
+      "text": "计数器从 [gold:12]，跳到了 [gold:487 / 1000]——"
+    },
+    {
+      "start": 14.5,
+      "displayEnd": 17.7,
+      "text": "表层进度却卡在 [coral:19%]，几乎毫无变化。"
+    },
+    {
+      "start": 18.3,
+      "displayEnd": 21.6,
+      "text": "直觉告诉你，努力应该是[cyan:一条直线]："
+    },
+    {
+      "start": 21.8,
+      "displayEnd": 25.4,
+      "text": "付出一半的汗水，就该看到[gold:一半的结果]。"
+    },
+    {
+      "start": 25.6,
+      "displayEnd": 29.6,
+      "text": "可现实里，哪怕你点亮了将近[gold:一半的裂缝]，"
+    },
+    {
+      "start": 29.8,
+      "displayEnd": 33.6,
+      "text": "成绩与熟练度，依然在原地[coral:一动不动]。"
+    },
+    {
+      "start": 33.8,
+      "displayEnd": 37.6,
+      "text": "于是你开始怀疑：[coral:是不是我根本不是这块料？]"
+    },
+    {
+      "start": 38.4,
+      "displayEnd": 42.0,
+      "text": "物理学家把这种漫长的沉默，叫做[gold:渗流相变]。"
+    },
+    {
+      "start": 42.2,
+      "displayEnd": 46.2,
+      "text": "如果把镜头切进暗处，你会看到震撼的一幕："
+    },
+    {
+      "start": 46.4,
+      "displayEnd": 50.5,
+      "text": "水碰不到的下面，早就连成了[cyan:一大片暗网]——"
+    },
+    {
+      "start": 50.7,
+      "displayEnd": 55.5,
+      "text": "它们只是，还没和最上面的主干[gold:接上]。"
+    },
+    {
+      "start": 56.4,
+      "displayEnd": 60.2,
+      "text": "最可惜的人，停在了 [coral:450 / 1000]。"
+    },
+    {
+      "start": 60.4,
+      "displayEnd": 64.4,
+      "text": "水只渗到 [coral:19%]，他们以为没戏了，于是转身放弃。"
+    },
+    {
+      "start": 64.6,
+      "displayEnd": 68.0,
+      "text": "499……500……直到有一天——"
+    },
+    {
+      "start": 68.2,
+      "displayEnd": 72.8,
+      "text": "[gold:第 501 个点]，亮了。"
+    },
+    {
+      "start": 73.0,
+      "displayEnd": 77.8,
+      "text": "只用这一颗点，瞬间接通了暗处攒下的[gold:整片大陆]！"
+    },
+    {
+      "start": 78.0,
+      "displayEnd": 82.8,
+      "text": "越过一半的门槛，整张网在一秒内[gold:全部亮起]——"
+    },
+    {
+      "start": 83.0,
+      "displayEnd": 87.6,
+      "text": "你以为的突然开窍，其实是暗网越过了[gold:临界点]。"
+    },
+    {
+      "start": 88.4,
+      "displayEnd": 92.5,
+      "text": "其实，你七八岁学骑车那天，就经历过一次[gold:渗流]。"
+    },
+    {
+      "start": 92.7,
+      "displayEnd": 97.2,
+      "text": "前三天，车把永远是歪的，你摔了[coral:无数个跟头]；"
+    },
+    {
+      "start": 97.4,
+      "displayEnd": 102.3,
+      "text": "可第四天傍晚，眼睛、手脚和平衡感，突然[gold:接通了]。"
+    },
+    {
+      "start": 102.5,
+      "displayEnd": 107.6,
+      "text": "不是那天突然学会，而是前三天在暗处[gold:攒够了点]。"
+    },
+    {
+      "start": 108.4,
+      "displayEnd": 113.0,
+      "text": "如果你正卡在某个漫长的[cyan:平台期]，请别急着放弃。"
+    },
+    {
+      "start": 113.2,
+      "displayEnd": 117.7,
+      "text": "你不是不够好——你只是，快要走到[gold:第 501 个点]了。"
+    }
+  ]
+}

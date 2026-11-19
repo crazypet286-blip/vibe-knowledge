@@ -1,0 +1,9 @@
+node_modules/
+05_Production/
+06_Audio/
+07_Output/
+09_QC/
+*.mp4
+*.m4a
+*.zip
+.DS_Store
